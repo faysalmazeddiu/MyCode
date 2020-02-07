@@ -7,8 +7,8 @@
 
 	<?php
 
-		$name="Mahir Hossain";
-		$id="112-35-204";
+		$name="Riad Hossain";
+		$id="112-35-207";
 
 		echo "Name of student =".$name.". and his id is =".$id;
 
@@ -18,6 +18,11 @@
 		echo "Name of student =".$name.". and his id is =".$id;
 
 
+		// for Branch two
+		$name="Sharif"; // Branch two
+		$id="112-35-206";
+
+		echo "Name of student =".$name.". and his id is =".$id;
 	?>
 
 </body>
