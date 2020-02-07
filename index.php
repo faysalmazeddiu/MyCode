@@ -27,6 +27,7 @@
 
 		$name="Mishu";
 		$id="112-35-20489";
+		$id="112-35-20000";
 
 		echo "Name of student =".$name.". and his id is =".$id;
 	?>
