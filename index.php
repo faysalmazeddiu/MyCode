@@ -14,8 +14,8 @@
 
 
 		// for Branch two
-		$name="Mahir Hossain"; // Branch two
-		$id="112-35-204";
+		$name="Sharif"; // Branch two
+		$id="112-35-206";
 
 		echo "Name of student =".$name.". and his id is =".$id;
 	?>
