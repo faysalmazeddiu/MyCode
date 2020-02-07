@@ -18,6 +18,12 @@
 		$id="112-35-206";
 
 		echo "Name of student =".$name.". and his id is =".$id;
+
+
+		$name="RMishu";
+		$id="112-35-204";
+
+		echo "Name of student =".$name.". and his id is =".$id;
 	?>
 
 </body>
